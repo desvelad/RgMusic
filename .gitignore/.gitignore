@@ -1,1 +1,8 @@
-He
+*.session
+*.session-journal
+.env
+__pycache__
+.idea
+.vscode
+raw_files
+downloads
